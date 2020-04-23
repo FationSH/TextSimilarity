@@ -1,6 +1,6 @@
 # TextSimilarity
 
-A python script for text similarity using 3 techniques:
+A python script for text similarity combining 3 techniques:
   - Create Shingles
   - Min-Has
   - Locality Sensitive Hashing
